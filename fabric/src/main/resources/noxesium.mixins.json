@@ -20,7 +20,6 @@
     "entity.BoatMixin",
     "entity.ClientPacketListenerMixin",
     "entity.LevelRendererMixin",
-    "entity.LivingEntityMixin",
     "entity.SpinAttackMixin",
     "entity.TextDisplayRenderer",
     "inventory.InventoryMixin",
